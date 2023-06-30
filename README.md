@@ -5,7 +5,7 @@
 <!-- Horizontal Lines -->
 <hr style="border-top: 3px dotted #998143">
 
-**terminal-rain:** [ascii-rain](https://github.com/nkleemann/ascii-rain) <br />
+**Terminal-rain:** [ascii-rain](https://github.com/nkleemann/ascii-rain) <br />
 **Terminal:** [kitty](https://github.com/kovidgoyal/kitty) <br />
 **system fetch** [nitch](https://github.com/ssleert/nitch)
 **Sound Visualizer:** [cava](https://github.com/karlstav/cava) <br />
