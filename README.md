@@ -1,0 +1,2 @@
+# kyprland
+hyprland rice
