@@ -5,7 +5,7 @@
 <!-- Horizontal Lines -->
 <hr style="border-top: 3px dotted #998143">
 
-**terminal-rain:** [ascii-rain]([https://github.com/xorg62/tty-clock](https://github.com/nkleemann/ascii-rain)) <br />
+**terminal-rain:** [ascii-rain](https://github.com/nkleemann/ascii-rain) <br />
 **Terminal:** [kitty](https://github.com/kovidgoyal/kitty) <br />
 **Sound Visualizer:** [cava](https://github.com/karlstav/cava) <br />
 **Theme:**[here](https://github.com/rose-pine/gtk) <br />
