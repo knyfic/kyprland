@@ -37,3 +37,7 @@ What you need before installation <br />
 >```
 >./install.sh
 >```
+ <br />
+ 
+![dekstop2](https://github.com/knyfic/kyprland/blob/main/assets/desktop2.png)
+ <br />
