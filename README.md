@@ -18,3 +18,8 @@ What you need before installation <br />
 >```
 >git, swaybg, swaylock, playerctl, slurp, grim, grimblast, rofi, light, hyprpicker, waybar-hyprland-git, hyprland, kitty, hyprland-interactive-screenshot, pamixer, nmtui, some nerdiconfonts , macos SF Pro fonts
 >```
+>clone my github repo <br />
+>```
+>git clone https://github.com/KNY360/kgruvbox
+>```
+ <br />
