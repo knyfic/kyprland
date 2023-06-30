@@ -20,6 +20,20 @@ What you need before installation <br />
 >```
 >clone my github repo <br />
 >```
->git clone https://github.com/KNY360/kgruvbox
+>git clone github.com/knyfic/kyprland
 >```
- <br />
+>
+>go into the necessary directory <br />
+>```
+>cd ~/kyprland
+>```
+
+>make executable install.sh <br />
+>```
+>chmod +x install.sh
+>```
+
+>run install.sh <br />
+>```
+>./install.sh
+>```
