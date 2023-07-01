@@ -19,7 +19,7 @@
 <hr style="border-top: 3px dotted #998143">
 
 # Installation <br />
->```
+
 >clone my github repo <br />
 >```
 >git clone github.com/knyfic/kyprland
