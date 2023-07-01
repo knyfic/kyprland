@@ -8,8 +8,8 @@
 **Terminal-rain:** **>** [ascii-rain](https://github.com/nkleemann/ascii-rain) <br />
 **Terminal:** **>** [kitty](https://github.com/kovidgoyal/kitty) <br />
 **system fetch** **>** [nitch](https://github.com/ssleert/nitch) <br />
-**Sound Visualizer:** **>** [cava](https://github.com/karlstav/cava) <br />  
-**Theme:** **>** [here](https://github.com/rose-pine/gtk)
+**Sound Visualizer:** **>** [cava](https://github.com/karlstav/cava) <br />
+**Theme:** **>** [here](https://github.com/rose-pine/gtk) <br />
 **Icon theme:** **>** [here](https://github.com/TaylanTatli/Sevi) <br />
 **Wallpaper:** **>** [here](https://github.com/knyfic/kyprland/blob/main/wallpaper/hatask.jpeg) <br />
 **Bar:** **>** [waybar hyprland patches](https://aur.archlinux.org/packages/waybar-hyprland) // [waybar](https://github.com/Alexays/Waybar) <br />
