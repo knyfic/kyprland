@@ -16,7 +16,7 @@
 # What you need before installation <br />
 >Arch Linux
 >```
->git, swaybg, swaylock, playerctl, slurp, grim, grimblast, rofi, light, hyprpicker, waybar-hyprland-git, hyprland, kitty, hyprland-interactive-screenshot, pamixer, nmtui, some nerdiconfonts , macos SF Pro fonts
+>git, swaybg, swaylock, playerctl, slurp, grim, grimblast, rofi, light, hyprpicker, waybar-hyprland-git, hyprland, kitty, hyprland-interactive-screenshot, pamixer, nmtui, some nerdiconfonts, macos SF Pro fonts
 <hr style="border-top: 3px dotted #998143">
 
 # Installation <br />
