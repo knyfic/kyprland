@@ -29,12 +29,10 @@
 >```
 >cd ~/kyprland
 >```
-
 >make executable install.sh <br />
 >```
 >chmod +x install.sh
 >```
-
 >run install.sh <br />
 >```
 >./install.sh
